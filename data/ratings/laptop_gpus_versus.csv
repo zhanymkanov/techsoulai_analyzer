@@ -1,0 +1,161 @@
+gpu,rate,versus
+amd radeon 460 + intel hd graphics 630,55,https://versus.com/ru/amd-radeon-rx-460
+amd radeon 520,37,https://versus.com/ru/amd-radeon-520
+amd radeon 530,35, https://versus.com/ru/amd-radeon-530
+amd radeon 530 + intel uhd graphics 620,35,https://versus.com/ru/amd-radeon-530
+amd radeon 530 + intel uhd graphics 630,35,https://versus.com/ru/amd-radeon-530
+amd radeon 530 4gb,35,https://versus.com/ru/amd-radeon-530
+amd radeon 530x,35,https://versus.com/ru/amd-radeon-530
+amd radeon 535,39,https://versus.com/ru/amd-radeon-535
+amd radeon r3,18,
+amd radeon r4,19,
+amd radeon r4 graphics,19,
+amd radeon r5,39,https://versus.com/ru/amd-radeon-r5
+amd radeon r7,52,https://versus.com/ru/amd-radeon-r7-370
+amd radeon r7 m465 + intel hd graphics 620,52,
+amd radeon radeon r3,19,
+amd radeon radeon vega 8,40,https://versus.com/ru/amd-radeon-vega-8
+amd radeon rx 550,57,https://versus.com/ru/amd-radeon-rx-550
+amd radeon rx 550 + intel uhd 630,57,https://versus.com/ru/amd-radeon-rx-550
+amd radeon rx 560x,55,https://versus.com/ru/amd-radeon-rx-560x
+amd radeon rx vega 10,42,
+amd radeon rx vega 10 graphics,42,
+amd radeon rx vega 8,40,https://versus.com/ru/amd-radeon-vega-8
+amd radeon rx vega m gl,42,
+amd radeon rx560x,55,https://versus.com/ru/amd-radeon-rx-560x
+amd radeon vega 10,42,
+amd radeon vega 3,18,
+amd radeon vega 3 + amd radeon 530,35, https://versus.com/ru/amd-radeon-530,
+amd radeon vega 3 + radeon 540x,48,https://versus.com/ru/amd-radeon-rx-540x
+amd radeon vega 3 graphics,35,
+amd radeon vega 6,38,
+amd radeon vega 8,40,https://versus.com/ru/amd-radeon-vega-8
+amd radeon vega 8 + amd radeon rx 560,51,https://versus.com/ru/amd-radeon-rx-560
+amd radeon vega 8 + nvidia gtx 1650,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+amd radeon vega 8 + radeon 540x,48,https://versus.com/ru/amd-radeon-rx-540x
+amd radeon vega 8 graphics,40,https://versus.com/ru/amd-radeon-vega-8
+amd radeon vega r540,48,https://versus.com/ru/amd-radeon-rx-540
+geforce gtx 1050ti,54,https://versus.com/ru/nvidia-geforce-gtx-1050-ti
+geforce gtx 1650,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+geforce gtx 1660 ti 6gb,76,https://versus.com/ru/nvidia-geforce-gtx-1660-ti
+geforce mx250,49,https://versus.com/ru/nvidia-geforce-mx250
+hd 630,21,
+intel geforce gtx 1650,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+intel hd 620,19,
+intel hd graphics,15,
+intel hd graphics 400,13,
+intel hd graphics 405,14,
+intel hd graphics 4400,11,
+intel hd graphics 500,16,
+intel hd graphics 520,18,
+intel hd graphics 5500,12,
+intel hd graphics 600,18,
+intel hd graphics 6000,13,
+intel hd graphics 610,18,
+intel hd graphics 615,19,
+intel hd graphics 620,20,
+intel hd graphics 620 + amd radeon 530,35,https://versus.com/ru/amd-radeon-530
+intel hd graphics 620 + amd radeon rx 540,48,https://versus.com/ru/amd-radeon-rx-540
+intel hd graphics 620 + nvidia geforce mx 130,42,https://versus.com/ru/nvidia-geforce-mx130
+intel hd graphics 620 + nvidia geforce mx110,41,https://versus.com/ru/nvidia-geforce-mx110
+intel hd graphics 630,21,
+intel hd graphics 630 + nvidia geforce rtx 2060,79,https://versus.com/ru/nvidia-geforce-rtx-2060
+intel iris,21,
+intel iris plus,21,
+intel iris plus graphics,21,
+intel iris plus graphics 640,22,
+intel iris plus graphics 645,23,
+intel iris plus graphics 650,24,
+intel iris plus graphics 655,25,
+intel uhd 600,18,
+intel uhd 620,19,
+intel uhd 630,20,
+intel uhd 630 + nvidia geforce gtx 1050,54,https://versus.com/ru/nvidia-geforce-gtx-1050
+intel uhd graphics,15,
+intel uhd graphics 600,18,
+intel uhd graphics 605,18.5,
+intel uhd graphics 610,19,
+intel uhd graphics 615,19.5,
+intel uhd graphics 617,19.7,
+intel uhd graphics 620,20,
+intel uhd graphics 620 + amd radeon 530,35,https://versus.com/ru/amd-radeon-530
+intel uhd graphics 620 + md radeon 520,37,https://versus.com/ru/amd-radeon-520
+intel uhd graphics 620 + nvidia geforce gtx 1050,54,https://versus.com/ru/nvidia-geforce-gtx-1050
+intel uhd graphics 620 + nvidia geforce mx110,41,https://versus.com/ru/nvidia-geforce-mx110
+intel uhd graphics 620 + nvidia geforce mx130,42,https://versus.com/ru/nvidia-geforce-mx130
+intel uhd graphics 620 + nvidia geforce mx230,49,https://versus.com/ru/nvidia-geforce-mx230
+intel uhd graphics 620 + nvidia geforce mx250,49,https://versus.com/ru/nvidia-geforce-mx250
+intel uhd graphics 630,21,
+intel uhd graphics 630 + amd radeon 530,35,https://versus.com/ru/amd-radeon-530
+intel uhd graphics 630 + nvidia geforce gtx 1050,54,https://versus.com/ru/nvidia-geforce-gtx-1050
+intel uhd graphics 630 + nvidia geforce gtx 1650,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+intel uhd graphics 630 + nvidia geforce gtx 1660ti,76,https://versus.com/ru/nvidia-geforce-gtx-1660-ti
+intel uhd graphics 650,21.5,
+intel uhd graphics sma,18,
+iris plus graphics 650,24,
+nvidia geforc rtx 2060 + intel uhd graphics 630,79,https://versus.com/ru/nvidia-geforce-rtx-2060
+nvidia geforce 130mx,42,https://versus.com/ru/nvidia-geforce-mx130
+nvidia geforce 940mx + intel hd graphics 520,40,https://versus.com/ru/nvidia-geforce-940mx
+nvidia geforce 940mx + intel hd graphics 620,40,https://versus.com/ru/nvidia-geforce-940mx
+nvidia geforce gt130mx + intel hd graphics 620,42,https://versus.com/ru/nvidia-geforce-mx130
+nvidia geforce gtx 1050,54,https://versus.com/ru/nvidia-geforce-gtx-1050
+nvidia geforce gtx 1050 + intel hd graphics 620,54,https://versus.com/ru/nvidia-geforce-gtx-1050
+nvidia geforce gtx 1050 + intel hd graphics 630,54,https://versus.com/ru/nvidia-geforce-gtx-1050
+nvidia geforce gtx 1050 + intel uhd 620,54,https://versus.com/ru/nvidia-geforce-gtx-1050
+nvidia geforce gtx 1050 + intel uhd graphics 630,54,https://versus.com/ru/nvidia-geforce-gtx-1050
+nvidia geforce gtx 1050 ti,54,https://versus.com/ru/nvidia-geforce-gtx-1050-ti
+nvidia geforce gtx 1050 ti + amd radeon vega 8,54,https://versus.com/ru/nvidia-geforce-gtx-1050-ti
+nvidia geforce gtx 1050 ti + intel hd graphics 630,54,https://versus.com/ru/nvidia-geforce-gtx-1050-ti
+nvidia geforce gtx 1050 ti + intel uhd graphics 630,54,https://versus.com/ru/nvidia-geforce-gtx-1050-ti
+nvidia geforce gtx 1060 + intel hd graphics 630,63,https://versus.com/ru/nvidia-geforce-gtx-1060
+nvidia geforce gtx 1080 + intel hd graphics,77,https://versus.com/ru/nvidia-geforce-gtx-1080
+nvidia geforce gtx 1650,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1650 + amd radeon rx vega 10,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1650 + amd radeon vega 8,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1650 + intel hd graphics 630,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1650 + intel uhd 630,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1650 + intel uhd graphics 620,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1650 + intel uhd graphics 630,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1650 4gb,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1660,68,https://versus.com/ru/nvidia-geforce-gtx-1650
+nvidia geforce gtx 1660 ti,76,https://versus.com/ru/nvidia-geforce-gtx-1660-ti
+nvidia geforce gtx 1660 ti + intel uhd graphics 630,76,https://versus.com/ru/nvidia-geforce-gtx-1660-ti
+nvidia geforce gtx 1660 ti 6gb,76,https://versus.com/ru/nvidia-geforce-gtx-1660-ti
+nvidia geforce gtx 1660ti,76,https://versus.com/ru/nvidia-geforce-gtx-1660-ti
+nvidia geforce mx 110,41,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx 130,42,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx 150 + intel uhd 620,47,https://versus.com/ru/nvidia-geforce-mx150
+nvidia geforce mx110,41,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx110 + intel hd graphics 620,41,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx110 2gb,41,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx130,42,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx130 + intel hd graphics 620,42,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx130 + intel uhd graphics 620,42,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx130 2gb,42,https://versus.com/ru/nvidia-geforce-mx110
+nvidia geforce mx150,47,https://versus.com/ru/nvidia-geforce-mx150
+nvidia geforce mx150 + intel hd graphics 630,47,https://versus.com/ru/nvidia-geforce-mx150
+nvidia geforce mx150 + intel uhd 620,47,https://versus.com/ru/nvidia-geforce-mx150
+nvidia geforce mx150 + intel uhd graphics 620,47,https://versus.com/ru/nvidia-geforce-mx150
+nvidia geforce mx150 2gb,47,https://versus.com/ru/nvidia-geforce-mx150
+nvidia geforce mx230,49,https://versus.com/ru/nvidia-geforce-mx230
+nvidia geforce mx230 + intel uhd graphics 620,49,https://versus.com/ru/nvidia-geforce-mx230
+nvidia geforce mx230 + intel uhd graphics 630,49,https://versus.com/ru/nvidia-geforce-mx230
+nvidia geforce mx250,49,https://versus.com/ru/nvidia-geforce-mx250
+nvidia geforce mx250 + intel uhd graphics,49,https://versus.com/ru/nvidia-geforce-mx250
+nvidia geforce mx250 + intel uhd graphics 620,49,https://versus.com/ru/nvidia-geforce-mx250
+nvidia geforce mx250 2gb,49,https://versus.com/ru/nvidia-geforce-mx250
+nvidia geforce mx250 4gb,49,https://versus.com/ru/nvidia-geforce-mx250
+nvidia geforce rtx 2060,79,https://versus.com/ru/nvidia-geforce-rtx-2060
+nvidia geforce rtx 2060 + intel uhd graphics 630,79,https://versus.com/ru/nvidia-geforce-rtx-2060
+nvidia geforce rtx 2070 + intel uhd graphics 630,78,https://versus.com/ru/nvidia-geforce-rtx-2070
+nvidia geforce rtx2080 + intel uhd graphics 630,86,https://versus.com/ru/nvidia-geforce-rtx-2080
+radeon pro 555x,51,https://versus.com/ru/amd-radeon-550x
+radeon pro 560x,55,https://versus.com/ru/amd-radeon-rx-560x
+radeon pro 570x,63,https://versus.com/ru/amd-radeon-rx-570x
+radeon pro 575x,64,https://versus.com/ru/amd-radeon-rx-570x
+radeon rx 540x,48,https://versus.com/ru/amd-radeon-rx-540x
+radeon vega 3,20,
+radeon vega 8,40,https://versus.com/ru/amd-radeon-vega-8
+uhd graphics,15,
+uhd graphics 620,20,
+uhd605,18.5,

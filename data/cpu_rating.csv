@@ -1,0 +1,189 @@
+id,cpu,rate,url
+1,3200u,68,https://versus.com/ru/amd-ryzen-3-3200u
+2,7100,72,https://versus.com/ru/intel-core-i3-7100
+3,7500,72,https://versus.com/ru/intel-core-i5-7500
+4,8130u,59,https://versus.com/ru/intel-core-i3-8130u
+5,8250u,60,https://versus.com/ru/intel-core-i5-8250u
+6,8265u,66,https://versus.com/ru/intel-core-i5-8265u
+7,8400t,65,https://versus.com/ru/intel-core-i5-8400t
+8,8500t,64,https://versus.com/ru/intel-core-i5-8500t
+9,9100t,66,https://versus.com/ru/intel-core-i3-9100t
+10,9400t,64,https://versus.com/ru/intel-core-i5-9400t
+11,amd a-series a6-9225,47,https://versus.com/ru/amd-a6-9225
+12,amd a12,53,https://versus.com/ru/amd-a12-9720p
+13,amd a12-9720p,53,https://versus.com/ru/amd-a12-9720p
+14,amd a4 9125,47,https://versus.com/ru/amd-a4-9125
+15,amd a4-9125,47,https://versus.com/ru/amd-a4-9125
+16,amd a6 9220,40,https://versus.com/ru/amd-a6-9220c
+17,amd a6 9220 2500 мгц,40,https://versus.com/ru/amd-a6-9220c
+18,amd a6 9225,47,https://versus.com/ru/amd-a6-9225
+19,amd a6-9220,40,https://versus.com/ru/amd-a6-9220c
+20,amd a6-9225,47,https://versus.com/ru/amd-a6-9225
+21,amd athlon 300u,69,https://versus.com/ru/amd-athlon-300u
+22,amd athlon ii 300u,69,https://versus.com/ru/amd-athlon-300u
+23,amd ryzen 3 2200u,63,https://versus.com/ru/amd-ryzen-3-2200u
+24,amd ryzen 3 3200u,68,https://versus.com/ru/amd-ryzen-3-3200u
+25,amd ryzen 3 3300u,69,https://versus.com/ru/amd-ryzen-3-3300u
+26,amd ryzen 3200u,68,https://versus.com/ru/amd-ryzen-3-3200u
+27,amd ryzen 5 2500u,62,https://versus.com/ru/amd-ryzen-5-2500u
+28,amd ryzen 5 3500u,70,https://versus.com/ru/amd-ryzen-5-3500u
+29,amd ryzen 5 3550h,68,https://versus.com/ru/amd-ryzen-5-3550h
+30,amd ryzen 7 3700u,72,https://versus.com/ru/amd-ryzen-7-3700u
+31,amd ryzen 7 3750h,69,https://versus.com/ru/amd-ryzen-7-3750h
+32,athlon 300u,69,https://versus.com/ru/amd-athlon-300u
+33,celeron j4005,44,https://versus.com/ru/intel-celeron-j4005
+34,celeron n4000,22,https://versus.com/ru/intel-celeron-n4000
+35,core i3 6006u,58,https://versus.com/ru/intel-core-i3-6006u
+36,core i3 7020u,59,https://versus.com/ru/intel-core-i3-7020u
+37,core i5 8250u,60,https://versus.com/ru/intel-core-i5-8250u
+38,core i5 8265u,66,https://versus.com/ru/intel-core-i5-8265u
+39,core i5 8300h,77,https://versus.com/ru/intel-core-i5-8300h
+40,core i7 10510u,78,https://versus.com/ru/intel-core-i7-10510u
+41,core i7 1065g7,78,https://versus.com/ru/intel-core-i7-1065g7
+42,core pentium n5000,45,https://versus.com/ru/intel-pentium-silver-n5000
+43,intel atom e8000,44,https://versus.com/ru/intel-atom-x5-e8000
+44,intel celeron 3867u,48,https://versus.com/ru/intel-celeron-3867u
+45,intel celeron 4205u,49,https://versus.com/ru/intel-celeron-4205u
+46,intel celeron dual core 1007u,50,https://versus.com/ru/intel-celeron-1007u
+47,intel celeron j3060,55,https://versus.com/ru/intel-celeron-j3060
+48,intel celeron j4005,44,https://versus.com/ru/intel-celeron-j4005
+49,intel celeron n3060,41,https://versus.com/ru/intel-celeron-n3060
+50,intel celeron n3350,49,https://versus.com/ru/intel-celeron-n3350
+51,intel celeron n4000,22,https://versus.com/ru/intel-celeron-n4000
+52,intel core i3 1005g1,72,https://versus.com/ru/intel-core-i3-1005g1
+53,intel core i3 10110u,71,https://versus.com/ru/intel-core-i3-10110u
+54,intel core i5 1035g1,78,https://versus.com/ru/intel-core-i5-1035g1
+55,intel core i3 5005u,56,https://versus.com/ru/intel-core-i3-5005u
+56,intel core i3 6006u,58,https://versus.com/ru/intel-core-i3-6006u
+57,intel core i3 7020u,59,https://versus.com/ru/intel-core-i3-7020u
+58,intel core i3 7100,72,https://versus.com/ru/intel-core-i3-7100
+59,intel core i3 7100u,60,https://versus.com/ru/intel-core-i3-7100u
+60,intel core i5 7200u,65,https://versus.com/ru/intel-core-i5-7200u
+61,intel core i3 8100t,72,https://versus.com/ru/intel-core-i3-8100t
+62,intel core i3 8130u,59,https://versus.com/ru/intel-core-i3-8130u
+63,intel core i3 9100t,66,https://versus.com/ru/intel-core-i3-9100t
+64,intel core i3-10110u,71,https://versus.com/ru/intel-core-i3-10110u
+65,intel core i3-6006u,58,https://versus.com/ru/intel-core-i3-6006u
+66,intel core i3-7020u,59,https://versus.com/ru/intel-core-i3-7020u
+67,intel core i3-8100t,72,https://versus.com/ru/intel-core-i3-8100t
+68,intel core i3-8130u,59,https://versus.com/ru/intel-core-i3-8130u
+69,intel core i3-9100t,66,https://versus.com/ru/intel-core-i3-9100t
+70,intel core i5 10210u,76,https://versus.com/ru/intel-core-i5-10210u
+72,intel core i5 1035g4,76,https://versus.com/ru/intel-core-i5-1035g4
+73,intel core i5 6200u,60,https://versus.com/ru/intel-core-i5-6200u
+75,intel core i5 7300u,61,https://versus.com/ru/intel-core-i5-7300u
+76,intel core i5 7360u,58,https://versus.com/ru/intel-core-i5-7360u
+77,intel core i5 7500,72,https://versus.com/ru/intel-core-i5-7500
+78,intel core i5 7500t,70,https://versus.com/ru/intel-core-i5-7500t
+79,intel core i7 7500u,67,https://versus.com/ru/intel-core-i7-7500u
+80,intel core i5 8200y,65,https://versus.com/ru/intel-core-i5-8200y
+81,intel core i5 8250u,60,https://versus.com/ru/intel-core-i5-8250u
+82,intel core i5 8250u 1600 мгц,60,https://versus.com/ru/intel-core-i5-8250u
+83,intel core i5 8257u,71,https://versus.com/ru/intel-core-i5-8257u
+84,intel core i5 8265u,66,https://versus.com/ru/intel-core-i5-8265u
+85,intel core i5 8300h,77,https://versus.com/ru/intel-core-i5-8300h
+86,intel core i5 8350u,61,https://versus.com/ru/intel-core-i5-8350u
+87,intel core i5 8400,66,https://versus.com/ru/intel-core-i5-8400
+88,intel core i5 8400t,65,https://versus.com/ru/intel-core-i5-8400t
+89,intel core i5 8500,69,https://versus.com/ru/intel-core-i5-8500
+90,intel core i5 8500t,64,https://versus.com/ru/intel-core-i5-8500t
+91,intel core i5 9300h,68,https://versus.com/ru/intel-core-i5-9300h
+92,intel core i5 9400t,64,https://versus.com/ru/intel-core-i5-9400t
+93,intel core i5-10210u,76,https://versus.com/ru/intel-core-i5-10210u
+94,intel core i5-1035g4,76,https://versus.com/ru/intel-core-i5-1035g4
+95,intel core i5-8250u,60,https://versus.com/ru/intel-core-i5-8250u
+96,intel core i5-8265u,66,https://versus.com/ru/intel-core-i5-8265u
+97,intel core i5-8500t,64,https://versus.com/ru/intel-core-i5-8500t
+98,intel core i5-9400t,64,https://versus.com/ru/intel-core-i5-9400t
+99,intel core i7 10510u,78,https://versus.com/ru/intel-core-i7-10510u
+100,intel core i7 1065g7,78,https://versus.com/ru/intel-core-i7-1065g7
+101,intel core i7 7700,76,https://versus.com/ru/intel-core-i7-7700
+102,intel core i7 7700hq,74,https://versus.com/ru/intel-core-i7-7700hq
+103,intel core i7 8550u,64,https://versus.com/ru/intel-core-i7-8550u
+104,intel core i7 8550u 1800 мгц,64,https://versus.com/ru/intel-core-i7-8550u
+105,intel core i7 8650u,64,https://versus.com/ru/intel-core-i7-8650u
+106,intel core i7 8700,71,https://versus.com/ru/intel-core-i7-8700
+107,intel core i7 8705g,65,https://versus.com/ru/intel-core-i7-8705g
+108,intel core i7 8750h,85,https://versus.com/ru/intel-core-i7-8750h
+109,intel core i7 9700t,68,https://versus.com/ru/intel-core-i7-9700t
+110,intel core i7 9750h,93,https://versus.com/ru/intel-core-i7-9750h
+111,intel core i7-1065g7,78,https://versus.com/ru/intel-core-i7-1065g7
+112,intel core i7-8550u,64,https://versus.com/ru/intel-core-i7-8550u
+113,intel core i7-8700t,69,https://versus.com/ru/intel-core-i7-8700t
+114,intel core i7-9750h,93,https://versus.com/ru/intel-core-i7-9750h
+115,intel pentium 4415u,50,https://versus.com/ru/intel-pentium-gold-4415y
+116,intel pentium 5405u,54,https://versus.com/ru/intel-pentium-gold-5405u
+117,intel pentium g4560,62,https://versus.com/ru/intel-pentium-gold-g4560
+118,intel pentium g4600,67,https://versus.com/ru/intel-pentium-g4600
+119,intel pentium gold 4417u,54,https://versus.com/ru/intel-pentium-4417u
+120,intel pentium gold 5405u,54,https://versus.com/ru/intel-pentium-5405u
+121,intel pentium j5005,44,https://versus.com/ru/intel-pentium-silver-j5005
+122,intel pentium n3710,49,https://versus.com/ru/intel-pentium-n3710?q=n3710
+123,intel pentium n4000,22,https://versus.com/ru/intel-celeron-n4000
+124,intel pentium n5000,45,https://versus.com/ru/intel-pentium-silver-n5000
+125,intel pentium silver n5000,45,https://versus.com/ru/intel-pentium-silver-n5000
+126,pentium n5000,45,https://versus.com/ru/intel-pentium-silver-n5000
+127,ryzen 3 2200u,63, https://versus.com/ru/amd-ryzen-3-2200u
+128,ryzen 3 3200u,68,https://versus.com/ru/amd-ryzen-3-3200u
+129,ryzen 5 3500u,70,https://versus.com/ru/amd-ryzen-5-3500u
+130,6600k,71,https://versus.com/ru/intel-core-i5-6600k
+131,7400,71,https://versus.com/ru/intel-core-i5-7400
+132,8100,64,https://versus.com/ru/intel-core-i3-8100
+133,8400,66,https://versus.com/ru/intel-core-i5-8400
+135,9100f,55,https://versus.com/ru/intel-core-i3-9100f
+136,9400f,56,https://versus.com/ru/intel-core-i5-9400f
+137,9700k,71,https://versus.com/ru/intel-core-i7-9700k
+138,amd athlon 200ge,40,https://versus.com/ru/amd-athlon-200ge
+139,amd ryzen 3 3200g,74,https://versus.com/ru/amd-ryzen-3-3200g
+140,amd ryzen 5 2600x,46,https://versus.com/ru/amd-ryzen-5-2600x
+141,amd ryzen 5 3400g,74,https://versus.com/ru/amd-ryzen-5-3400g
+142,amd ryzen 5 3500,68,https://versus.com/ru/amd-ryzen-5-3500x
+143,amd ryzen 5 3600,67,https://versus.com/ru/amd-ryzen-5-3600
+144,amd ryzen 5 3600x,68,https://versus.com/ru/amd-ryzen-5-3600x
+145,amd ryzen 7 2700x,58,https://versus.com/ru/amd-ryzen-7-2700x
+146,amd ryzen 7 3700x,69,https://versus.com/ru/amd-ryzen-7-3700x
+147,amd ryzen 7 3800x,69,https://versus.com/ru/amd-ryzen-7-3800x
+148,amd ryzen 9 3900,64,https://versus.com/ru/amd-ryzen-9-3900x
+149,core i3 7100,72,https://versus.com/ru/intel-core-i3-7100
+150,intel celeron g3900,51,https://versus.com/ru/intel-celeron-g3900
+153,intel core i3 2100,47,https://versus.com/ru/intel-core-i3-2100
+154,intel core i3 6100,66,https://versus.com/ru/intel-core-i3-6100
+156,intel core i3 8100,64,https://versus.com/ru/intel-core-i3-8100
+158,intel core i3 9100,67,https://versus.com/ru/intel-core-i3-9100
+159,intel core i3 9100f,55,https://versus.com/ru/intel-core-i3-9100f
+160,intel core i3-6100,66,https://versus.com/ru/intel-core-i3-6100
+161,intel core i3-7100,72,https://versus.com/ru/intel-core-i3-7100
+162,intel core i3-8100,64,https://versus.com/ru/intel-core-i3-8100
+163,intel core i3-8400,65,https://versus.com/ru/intel-core-i5-8400t
+164,intel core i3-9100,67,https://versus.com/ru/intel-core-i3-9100
+165,intel core i5 2400s,62,https://versus.com/ru/intel-core-i5-2400
+166,intel core i5 6400,64,https://versus.com/ru/intel-core-i5-6400
+167,intel core i5 7400,71,https://versus.com/ru/intel-core-i5-7400
+172,intel core i5 8700,71,https://versus.com/ru/intel-core-i7-8700
+173,intel core i5 9400f,56,https://versus.com/ru/intel-core-i5-9400f
+174,intel core i5 9600k,73,https://versus.com/ru/intel-core-i5-9600k
+175,intel core i5-7500,72,https://versus.com/ru/intel-core-i5-7500
+176,intel core i5-8500,69,https://versus.com/ru/intel-core-i5-8500
+177,intel core i5-9400,67,https://versus.com/ru/intel-core-i5-9400
+178,intel core i5-9500,68,https://versus.com/ru/intel-core-i5-9500
+181,intel core i7 8700k,72,https://versus.com/ru/intel-core-i7-8700k
+182,intel core i7 9700f,60,https://versus.com/ru/intel-core-i7-9700f
+183,intel core i7 9700k,71,https://versus.com/ru/intel-core-i7-9700k
+184,intel core i7-9700,68,https://versus.com/ru/intel-core-i7-9700
+185,intel pentium g3220,52,https://versus.com/ru/intel-pentium-g3220
+187,intel pentium g5400,62,https://versus.com/ru/intel-pentium-gold-g5400
+188,intel pentium gold g5400,62,https://versus.com/ru/intel-pentium-gold-g5400
+189,intel pentium j3710,55,https://versus.com/ru/intel-pentium-j3710
+191,intel сore i3 9100f,55,https://versus.com/ru/intel-core-i3-9100f
+192,intel сore i3-8100,64,https://versus.com/ru/intel-core-i3-8100
+193,intel сore i3-9100f,55,https://versus.com/ru/intel-core-i3-9100f
+194,intel сore i5 9400,67,https://versus.com/ru/intel-core-i5-9400
+195,intel сore i5 9400f,56,https://versus.com/ru/intel-core-i5-9400f
+196,intel сore i5 9600kf,58,https://versus.com/ru/intel-core-i5-9600kf
+197,intel сore i5-9400,67,https://versus.com/ru/intel-core-i5-9400
+198,intel сore i5-9400f,56,https://versus.com/ru/intel-core-i5-9400f
+199,intel сore i7 9700f,60,https://versus.com/ru/intel-core-i7-9700f
+200,intel сore i7-9700f,60,https://versus.com/ru/intel-core-i7-9700f
+201,intet core i7 7700,76,https://versus.com/ru/intel-core-i7-7700
+202,ryzen 5 2600,49,https://versus.com/ru/amd-ryzen-5-2600
+203,ryzen 5 pro 2400g 3.6 ггц,57,https://versus.com/ru/amd-ryzen-5-2400g
